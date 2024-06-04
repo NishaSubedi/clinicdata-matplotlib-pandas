@@ -1,0 +1,93 @@
+
+{    
+    "totals": {
+        "payTypeWiseSummary": {
+            "cash": {
+                "saleSubtotal": 811870.0,
+                "saleDiscount": 19520.0,
+                "saleTax": 0.0,
+                "saleGrandTotal": 792350.0,
+                "returnSubtotal": 8430.0,
+                "returnDiscount": 0.0,
+                "returnTax": 0.0,
+                "returnGrandTotal": 8430.0,
+                "netSubtotal": 803440.0,
+                "netDiscount": 19520.0,
+                "netTax": 0.0,
+                "netGrandTotal": 783920.0
+            },
+            "credit": {
+                "saleSubtotal": 1457741.0,
+                "saleDiscount": 0.0,
+                "saleTax": 0.0,
+                "saleGrandTotal": 1457741.0,
+                "returnSubtotal": 9476.0,
+                "returnDiscount": 0.0,
+                "returnTax": 0.0,
+                "returnGrandTotal": 9476.0,
+                "netSubtotal": 1448265.0,
+                "netDiscount": 0.0,
+                "netTax": 0.0,
+                "netGrandTotal": 1448265.0
+            },
+            "netCollection": {
+                "saleSubtotal": 2269611.0,
+                "saleDiscount": 19520.0,
+                "saleTax": 0.0,
+                "saleGrandTotal": 2250091.0,
+                "returnSubtotal": 17906.0,
+                "returnDiscount": 0.0,
+                "returnTax": 0.0,
+                "returnGrandTotal": 17906.0,
+                "netSubtotal": 2251705.0,
+                "netDiscount": 19520.0,
+                "netTax": 0.0,
+                "netGrandTotal": 2232185.0
+            }
+        },
+        "patientTypeWiseSummary": {
+            "general": {
+                "saleSubtotal": 811870.0,
+                "saleDiscount": 19520.0,
+                "saleTax": 0.0,
+                "saleGrandTotal": 792350.0,
+                "returnSubtotal": 8430.0,
+                "returnDiscount": 0.0,
+                "returnTax": 0.0,
+                "returnGrandTotal": 8430.0,
+                "netSubtotal": 803440.0,
+                "netDiscount": 19520.0,
+                "netTax": 0.0,
+                "netGrandTotal": 783920.0
+            },
+            "insurance": {
+                "saleSubtotal": 1457741.0,
+                "saleDiscount": 0.0,
+                "saleTax": 0.0,
+                "saleGrandTotal": 1457741.0,
+                "returnSubtotal": 9476.0,
+                "returnDiscount": 0.0,
+                "returnTax": 0.0,
+                "returnGrandTotal": 9476.0,
+                "netSubtotal": 1448265.0,
+                "netDiscount": 0.0,
+                "netTax": 0.0,
+                "netGrandTotal": 1448265.0
+            },
+            "netCollection": {
+                "saleSubtotal": 2269611.0,
+                "saleDiscount": 19520.0,
+                "saleTax": 0.0,
+                "saleGrandTotal": 2250091.0,
+                "returnSubtotal": 17906.0,
+                "returnDiscount": 0.0,
+                "returnTax": 0.0,
+                "returnGrandTotal": 17906.0,
+                "netSubtotal": 2251705.0,
+                "netDiscount": 19520.0,
+                "netTax": 0.0,
+                "netGrandTotal": 2232185.0
+            }
+        }
+    }
+}
